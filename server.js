@@ -5,7 +5,7 @@ const fs = require('fs');
 const path = require('path');
 
 const app = express();
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 7860;
 const DB_FILE = path.join(__dirname, 'data.json');
 const JAM_BATAS_MASUK = '17:45';
 
