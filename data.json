@@ -1,0 +1,110 @@
+{
+  "users": [
+    {
+      "id": 4,
+      "nama": "Ustadz Afnan",
+      "username": "Afnan",
+      "password": "$2b$10$yNsFH8jorJGQiMBHH5Nh1.02mT70iEWwhWdsD1Ki3Bs5F5VxAKEZu",
+      "role": "guru"
+    },
+    {
+      "id": 6,
+      "nama": "Ustadz Bintang",
+      "username": "Bintang",
+      "password": "$2b$10$YahcELojAVdoRNDgztYuvu11CEt/Umdqc34SkK5fZ2gplKpB2IAVu",
+      "role": "guru"
+    },
+    {
+      "id": 7,
+      "nama": "Ustadz Heidy",
+      "username": "Heidy",
+      "password": "$2b$10$8acetazv7Ntl5YWG9dMMAO9awru3KftzZyKrNA5spBksVICj3Tlcq",
+      "role": "guru"
+    },
+    {
+      "id": 8,
+      "nama": "Ustadz Karim",
+      "username": "Karim",
+      "password": "$2b$10$pCGl6GF0MwZxgWolNYRJDOOxUQ3YNyybew56VdOlqWpczfTYYaVJe",
+      "role": "guru"
+    },
+    {
+      "id": 9,
+      "nama": "Ustadzah Endah",
+      "username": "Endah",
+      "password": "$2b$10$f3OoUr24rHpxltPyCo8CXempJK7lnWoiueNq9oOUCctmxV2cLoapO",
+      "role": "guru"
+    },
+    {
+      "id": 10,
+      "nama": "Ustadzah Rara",
+      "username": "Rara",
+      "password": "$2b$10$h.7uii/71etfoWOsO3CygemSibiNFkXsexfCktq2M21hLFZuZ5yxa",
+      "role": "guru"
+    },
+    {
+      "id": 11,
+      "nama": "Ustadzah Ze",
+      "username": "Ze",
+      "password": "$2b$10$vUzQ2b83et5vyNQJl//UFu8eA.inEggX.Ei1i5eyjVvfmnR46HCyK",
+      "role": "guru"
+    },
+    {
+      "id": 12,
+      "nama": "Ustadzah Fita",
+      "username": "Fita",
+      "password": "$2b$10$RKAefcmrQzVMZgVb7w1g3OLyVgPN3uUwxZKYucKR3S.x4WW1tX1Rm",
+      "role": "guru"
+    },
+    {
+      "id": 13,
+      "nama": "Ustadzah Naya",
+      "username": "Naya",
+      "password": "$2b$10$uhy/8bxWrIxl7oHbwTkAGuw2MkK9K0MyVNHhE7wYZToeHQh.bkKSe",
+      "role": "guru"
+    },
+    {
+      "id": 14,
+      "nama": "Ustadzah Syifa",
+      "username": "Syifa",
+      "password": "$2b$10$wo5D87tsIqTE2QObdI150.qjlUiRY.SYMw5z.TeS74NI45mJmoyx2",
+      "role": "guru"
+    },
+    {
+      "id": 15,
+      "nama": "AlZzz",
+      "username": "AlZzz",
+      "password": "$2b$10$0MCXHoBexd5n46EObip/ge93AlkP9qd7BQiScTmODsRMsglb557oi",
+      "role": "admin"
+    },
+    {
+      "id": 17,
+      "nama": "Ustadz Alfian",
+      "username": "Alfian",
+      "password": "$2b$10$DySaGSTf9Z26cEdxVLtmIOB1Bf.hHdLAcx.Lza21twLV.ywykAOP2",
+      "role": "guru"
+    }
+  ],
+  "presensi": [
+    {
+      "id": 1,
+      "userId": 10,
+      "nama": "Ustadzah Rara",
+      "tanggal": "2026-10-16",
+      "jamMasuk": "02:24:42",
+      "jamPulang": "02:24:47",
+      "terlambat": false
+    },
+    {
+      "id": 2,
+      "userId": 17,
+      "nama": "Ustadz Alfian",
+      "tanggal": "2026-10-16",
+      "jamMasuk": "02:40:37",
+      "jamPulang": null,
+      "terlambat": false
+    }
+  ],
+  "nextUserId": 18,
+  "nextPresensiId": 3
+}
